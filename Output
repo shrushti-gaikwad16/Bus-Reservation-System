@@ -1,0 +1,91 @@
+*** BUS RESERVATION SYSTEM ***
+1. Display available seats
+2. Book a seat
+3. Cancel seat reservation
+4. Exit
+Enter your choice: 1
+
+Available Seats:
+Seat 1
+Seat 2
+Seat 3
+Seat 4
+Seat 5
+Seat 6
+Seat 7
+Seat 8
+Seat 9
+Seat 10
+Seat 11
+Seat 12
+Seat 13
+Seat 14
+Seat 15
+Seat 16
+Seat 17
+Seat 18
+Seat 19
+Seat 20
+Seat 21
+Seat 22
+Seat 23
+Seat 24
+Seat 25
+Seat 26
+Seat 27
+Seat 28
+Seat 29
+Seat 30
+Seat 31
+Seat 32
+Seat 33
+Seat 34
+Seat 35
+Seat 36
+Seat 37
+Seat 38
+Seat 39
+Seat 40
+Seat 41
+Seat 42
+Seat 43
+Seat 44
+Seat 45
+Seat 46
+Seat 47
+Seat 48
+Seat 49
+Seat 50
+
+*** BUS RESERVATION SYSTEM ***
+1. Display available seats
+2. Book a seat
+3. Cancel seat reservation
+4. Exit
+Enter your choice: 2
+
+Enter seat number: 15
+Enter passenger name: shrushti
+Seat 15 booked for shrushti.
+
+*** BUS RESERVATION SYSTEM ***
+1. Display available seats
+2. Book a seat
+3. Cancel seat reservation
+4. Exit
+Enter your choice: 3
+
+Enter seat number to cancel reservation: 15
+Reservation canceled for seat 15.
+
+
+*** BUS RESERVATION SYSTEM ***
+1. Display available seats
+2. Book a seat
+3. Cancel seat reservation
+4. Exit
+Enter your choice: 4
+Exiting program. Goodbye!
+
+
+=== Code Execution Successful ===
