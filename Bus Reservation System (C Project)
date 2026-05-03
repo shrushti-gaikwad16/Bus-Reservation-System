@@ -1,0 +1,28 @@
+This project is a basic console-based Bus Reservation System developed in the C programming language. It simulates the process of booking and managing bus seats, making it useful for understanding fundamental programming concepts such as structures, arrays, and user interaction.
+
+The system allows users to:
+View available seats
+Book a seat by entering passenger details
+Cancel an existing reservation
+
+Each seat is managed using a structured data type that stores seat number, occupancy status, and passenger name.
+
+🚀 Features
+Simple and user-friendly menu-driven interface
+Real-time seat availability display
+Seat booking with passenger name
+Reservation cancellation functionality
+Input validation for seat numbers
+
+🛠️ Technologies Used
+C Programming Language
+Standard Libraries (stdio.h, stdlib.h, string.h)
+
+📚 Project Objective
+The main goal of this project is to provide a basic understanding of how reservation systems work by automating seat booking and reducing manual errors.
+
+🔮 Future Improvements
+Add file handling for data storage
+Implement graphical user interface (GUI)
+Add multiple buses and schedules
+Online booking and payment integration
